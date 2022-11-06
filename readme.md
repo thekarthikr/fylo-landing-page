@@ -1,6 +1,6 @@
 # Fylo Website
 
-Fylo landing page with dark/light mode switcher from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
+Fylo landing page with dark/light mode switcher using Tailwindcss from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)
 
 ## Usage
 
