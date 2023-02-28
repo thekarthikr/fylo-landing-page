@@ -24,7 +24,7 @@ To get started with this project, simply download or clone the repository to you
 
 1. Clone the repository using the following command:
 
-git clone https://github.com/thekarthikr/Fylo.git
+git clone https://github.com/thekarthikr/Fylo-Landing-Page.git
 
 
 Install dependencies
